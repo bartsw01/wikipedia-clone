@@ -1,7 +1,49 @@
 .greybox{
+  /*border-style: 1px solid;
+  border-color: #ddd;
+  background-color: #f9f9f9;
+  max-height: 100px;
+  min-width: 800px;*/
+  /*width: 100%;*/
+}
+
+.panel-success {
+  background-color: #F5fffa;
+}
+
+.panel-success > .panel-heading{
+  background-color: #cef2e0;
+  font-weight: bold;
+  color: black;
+}
+
+.panel-info{
+  background-color: #F5faff;
+}
+
+.panel-info > .panel-heading{
+  background-color: #cedff2;
+  font-weight: bold;
+  color: black;
+}
+
+.panel-danger {
+  background-color: #f9f9f9;
+}
+
+.panel-danger > .panel-heading{
+  background-color: #f9f9f9;
+  font-weight: bold;
+  color: black;
+}
+
+#toprow{
   border-style: solid;
-  border-color: grey;
-  background-color: lightgrey;
+  background-color: #f9f9f9;
   max-height: 100px;
   min-width: 800px;
+  /*padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;*/
 }
