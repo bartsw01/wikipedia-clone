@@ -1,4 +1,7 @@
-.panel{
-  min-height: 500px;
-
+.greybox{
+  border-style: solid;
+  border-color: grey;
+  background-color: lightgrey;
+  max-height: 100px;
+  min-width: 800px;
 }
